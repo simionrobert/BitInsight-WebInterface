@@ -24,6 +24,19 @@ It contains the mappings between each torrent the IPs assosiated with it
 ### IP Index
 It contains information about IPs, such as coordinates, country, city name etc.
 
+## Preview
+
+**Homepage**
+![alt text](https://raw.githubusercontent.com/simionrobert/BitInsight-WebInterface/master/readmeImg/Homepage.png)
+
+**Browse torrents page**
+![alt text](https://raw.githubusercontent.com/simionrobert/BitInsight-WebInterface/master/readmeImg/BrowseTorrentImage.PNG)
+
+**Kibana world map aggregation**
+![alt text](https://raw.githubusercontent.com/simionrobert/BitInsight-WebInterface/master/readmeImg/WorldMapIPAggregation.PNG)
+
+
+
 ## Thank You
 I really appreciate all kinds of feedback and contributions.
 
