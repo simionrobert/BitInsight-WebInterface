@@ -32,6 +32,9 @@ It contains information about IPs, such as coordinates, country, city name etc.
 **Browse torrents page**
 ![alt text](https://raw.githubusercontent.com/simionrobert/BitInsight-WebInterface/master/readmeImg/BrowseTorrentImage.PNG)
 
+**Browse torrents page**
+![alt text](https://raw.githubusercontent.com/simionrobert/BitInsight-WebInterface/master/readmeImg/ipDetails.PNG)
+
 **Kibana world map aggregation**
 ![alt text](https://raw.githubusercontent.com/simionrobert/BitInsight-WebInterface/master/readmeImg/WorldMapIPAggregation.PNG)
 
